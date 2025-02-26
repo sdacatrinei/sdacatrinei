@@ -17,7 +17,7 @@ Hi, I'm **Sergiu Acatrinei**, a passionate **Backend Developer** with a strong f
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![GitKraken](https://img.shields.io/badge/GitKraken-%2332D0B9.svg?style=for-the-badge&logo=gitkraken&logoColor=white)
 
 ## 📁 My Projects 📁
- • Loading...
+Loading...
 
 ## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergiuacatrinei/)
