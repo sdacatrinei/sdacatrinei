@@ -33,6 +33,6 @@ Aquí comparto mi viaje, mis proyectos y todo lo que aprendo en el camino. Si te
  🤲🏻 Este repositorio es una recopilación de mis proyectos personales, contribuciones y colaboraciones. 
  💡 Mi objetivo es explorar y experimentar con diversas tecnologías y mejorar mis habilidades. 
  📃 Aquí encontrarás una mezcla de aplicaciones innovadoras, soluciones a problemas complejos y desarrollos proprios.
- 🚪 Estoy comprometido en contribuir con código limpio, buscando siempre maneras de optimizar el rendimiento y la escalabilidad.
+ 🚪 Estoy comprometido en contribuir con código limpio, buscando siempre maneras de optimizar el rendimiento.
 ```
  A través de este repositorio, espero inspirar a otros desarrolladores, fomentar el aprendizaje continuo  y, sobre todo, ¡trabajar juntos para construir el futuro de la tecnología!
